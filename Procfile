@@ -1,0 +1,1 @@
+web: gunicorn oracle_conn: app --log-file -
